@@ -1,0 +1,232 @@
+{
+    "extensionName": {
+        "message": "Twitter UI Customizer",
+        "description": "拡張機能の名前"
+    },
+    "extensionDescription": {
+        "message": "TwitterのUIのカスタマイズ性を向上させます！",
+        "description": "拡張機能の説明"
+    },
+    "notificationMessage": {
+        "message": "新しいバージョンが公開されました。\rアップデートしてください。\r$V1$→$V2$",
+        "description": "アップデート通知",
+        "placeholders": {
+            "V1": {
+                "content": "$1",
+                "example": "x.x.x (Extension)"
+            },
+            "V2": {
+                "content": "$2",
+                "example": "x.x.x (GitHub)"
+            }
+        }
+    },
+    "popupTitle": {
+        "message": "ありがとう！",
+        "description": "ポップアップのタイトル"
+    },
+    "popupContent1": {
+        "message": "使ってくれてありがとう！",
+        "description": "ポップアップの文章"
+    },
+    "popupContent2": {
+        "message": "バグの報告や機能の要望は",
+        "description": "ポップアップの文章"
+    },
+    "popupContent3": {
+        "message": "Twitterからよろしくね！",
+        "description": "ポップアップの文章"
+    },
+    "popupButton1": {
+        "message": "Twitter UI Customizerの設定",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton2": {
+        "message": "セーフモードで設定を変更",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton3": {
+        "message": "アップデート通知の設定",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton4": {
+        "message": "作者(kaonasi_biwa)のTwitter",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton5": {
+        "message": "最新版をGitHubからインストール",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton7": {
+        "message": "ドメイン変更によって失われてしまったtwitter.comでの設定を救出",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "pSettings": {
+        "message": "設定",
+        "description": "ポップアップの設定ボタン"
+    },
+    "pSettingsInSafemode": {
+        "message": "セーフモード",
+        "description": "ポップアップのセーフモードボタン"
+    },
+    "pSettingsUpdateNotification": {
+        "message": "アップデート通知",
+        "description": "ポップアップのアップデート通知設定ボタン"
+    },
+    "pTwitterOfAuthor": {
+        "message": "作者(kaonasi_biwa)",
+        "description": "ポップアップの作者ボタン"
+    },
+    "pInstallFromGH": {
+        "message": "最新版をインストール",
+        "description": "ポップアップのGitHubから最新版をインストールするボタン"
+    },
+    "pPrintTUICPref": {
+        "message": "twitter.comでの設定を救出",
+        "description": "ポップアップのtwitter.comでの設定を救出するボタン"
+    },
+    "pUpdateOnBrowserLaunch": {
+        "message": "ブラウザを起動したとき",
+        "description": "ポップアップのアップデート通知設定"
+    },
+    "pUpdateOnClickIcon": {
+        "message": "アイコンをクリックしたとき",
+        "description": "ポップアップのアップデート通知設定"
+    },
+    "pUpdateOnOpenTwitter": {
+        "message": "Twitterを開いたとき",
+        "description": "ポップアップのアップデート通知設定"
+    },
+    "optionTitle": {
+        "message": "設定及び操作方法(Twitter UI Customizer)",
+        "description": "設定画面のタイトル"
+    },
+    "optionHeading1": {
+        "message": "Twitter UI Customizerの設定",
+        "description": "設定画面の見出し"
+    },
+    "optionHeading1_1": {
+        "message": "Twitterの設定:",
+        "description": "設定画面の見出し"
+    },
+    "optionContent1_1_1": {
+        "message": "(Twitterの設定→アクセシビリティ、表示、言語→表示)",
+        "description": "設定画面の文章"
+    },
+    "optionContent1_1_2": {
+        "message": "Twitterの設定を開く！",
+        "description": "設定画面の文章"
+    },
+    "optionHeading1_2": {
+        "message": "アップデート通知の設定:",
+        "description": "設定画面の見出し"
+    },
+    "optionContent1_2_1": {
+        "message": "ブラウザを起動したときにアップデート通知する",
+        "description": "設定画面の文章"
+    },
+    "optionContent1_2_2": {
+        "message": "アイコンをクリックしたときにアップデート通知する",
+        "description": "設定画面の文章"
+    },
+    "optionContent1_2_3": {
+        "message": "Twitterを開いたときにアップデート通知する",
+        "description": "設定画面の文章"
+    },
+    "optionHeading2": {
+        "message": "Twitter UI Customizerの操作方法",
+        "description": "設定画面の見出し"
+    },
+    "optionContent2_1": {
+        "message": "上のURL先から設定を変えます。",
+        "description": "設定画面の文章"
+    },
+    "optionContent2_2": {
+        "message": "再起動は必要ありません。",
+        "description": "設定画面の文章"
+    },
+    "optionContent2_3": {
+        "message": "デフォルトに戻すボタンで(この拡張機能での)デフォルトに戻せます。",
+        "description": "設定画面の文章"
+    },
+    "optionContent2_4": {
+        "message": "※この拡張機能のデフォルトは、日本時間2021/8/12のデザイン変更の前のデザインが基準になっています。",
+        "description": "設定画面の文章"
+    },
+    "optionSpecialThanks": {
+        "message": "Special Thanks",
+        "description": "設定画面のSpecial thanks"
+    },
+    "optionSpecialThanksGitHub": {
+        "message": "GitHub:",
+        "description": "設定画面のSpecial thanksのサービス名"
+    },
+    "optionSpecialThanksCrowdin": {
+        "message": "Crowdin:",
+        "description": "設定画面のSpecial thanksのサービス名"
+    },
+    "optionSpecialThanksOther": {
+        "message": "Other:",
+        "description": "設定画面のSpecial thanksのサービス名"
+    },
+    "optionSpecialThanksOtherID": {
+        "message": "ID:",
+        "description": "設定画面のSpecial thanksのサービス名用タイトル"
+    },
+    "optionSpecialThanksOtherTwitter": {
+        "message": "Twitter",
+        "description": "設定画面のSpecial thanksのサービス名"
+    },
+    "optionSpecialThanks_GrapeApple0": {
+        "message": "クライアント名表示・Twitter APIの主",
+        "description": "設定画面のSpecial thanks(GrapeApple0さん)"
+    },
+    "optionSpecialThanks_irhdevel": {
+        "message": "すばらしきデザイン",
+        "description": "設定画面のSpecial thanks(irhdevelさん)"
+    },
+    "optionSpecialThanks_Taka005": {
+        "message": "ソースコードの整理",
+        "description": "設定画面のSpecial thanks(Taka005さん)"
+    },
+    "optionSpecialThanks_Hibi_10000": {
+        "message": "アメリカ英語の翻訳者",
+        "description": "設定画面のSpecial thanks(Hibi-10000さん)"
+    },
+    "optionSpecialThanks_KotoneFami_v2": {
+        "message": "機能追加やソースコードの整理など",
+        "description": "設定画面のSpecial thanks(KotoneFamiさん)"
+    },
+    "optionSpecialThanks_loading_yt": {
+        "message": "中国語の翻訳者",
+        "description": "設定画面のSpecial thanks(loading_ytさん)"
+    },
+    "optionSpecialThanks_nyanrus_v2": {
+        "message": "韓国語の翻訳者や設定画面の改良",
+        "description": "設定画面のSpecial thanks(nyanrusさん)"
+    },
+    "optionSpecialThanks_CutterKnife_": {
+        "message": "アイコン・ロゴの作成者",
+        "description": "設定画面のSpecial thanks(CutterKnife_さん)"
+    },
+    "optionSpecialThanks_enthropyreg": {
+        "message": "ロシア語の翻訳者",
+        "description": "設定画面のSpecial thanks(enthropyregさん)"
+    },
+    "optionSpecialThanks_nakasyou": {
+        "message": "デザインの改良",
+        "description": "設定画面のSpecial thanks(nakasyouさん)"
+    },
+    "optionSpecialThanks_typeling1578": {
+        "message": "ソースコードの整理",
+        "description": "設定画面のSpecial thanks(typeling1578さん)"
+    },
+    "optionSpecialThanks_PianoCat1010": {
+        "message": "「いいねとリツイート」のアイコンの作成者",
+        "description": "設定画面のSpecial thanks(PianoCat1010さん)"
+    },
+    "optionSpecialThanks_GreenDotBlue99": {
+        "message": "タブの固定機能",
+        "description": "設定画面のSpecial thanks(GreenDotBlue99さん)"
+    }
+}
