@@ -39,23 +39,63 @@
     },
     "popupButton1": {
         "message": "Twitter UI Customizer的设置",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
     },
     "popupButton2": {
         "message": "在安全模式下改变设置",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
     },
     "popupButton3": {
         "message": "设置更新通知",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
     },
     "popupButton4": {
         "message": "作者的Twitter(@kaonasi_biwa)",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
     },
     "popupButton5": {
         "message": "从 Github 安装最新版本",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton7": {
+        "message": "ドメイン変更によって失われてしまったtwitter.comでの設定を救出",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "pSettings": {
+        "message": "設定",
+        "description": "ポップアップの設定ボタン"
+    },
+    "pSettingsInSafemode": {
+        "message": "セーフモード",
+        "description": "ポップアップのセーフモードボタン"
+    },
+    "pSettingsUpdateNotification": {
+        "message": "アップデート通知",
+        "description": "ポップアップのアップデート通知設定ボタン"
+    },
+    "pTwitterOfAuthor": {
+        "message": "作者(kaonasi_biwa)",
+        "description": "ポップアップの作者ボタン"
+    },
+    "pInstallFromGH": {
+        "message": "最新版をインストール",
+        "description": "ポップアップのGitHubから最新版をインストールするボタン"
+    },
+    "pPrintTUICPref": {
+        "message": "twitter.comでの設定を救出",
+        "description": "ポップアップのtwitter.comでの設定を救出するボタン"
+    },
+    "pUpdateOnBrowserLaunch": {
+        "message": "ブラウザを起動したとき",
+        "description": "ポップアップのアップデート通知設定"
+    },
+    "pUpdateOnClickIcon": {
+        "message": "アイコンをクリックしたとき",
+        "description": "ポップアップのアップデート通知設定"
+    },
+    "pUpdateOnOpenTwitter": {
+        "message": "Twitterを開いたとき",
+        "description": "ポップアップのアップデート通知設定"
     },
     "optionTitle": {
         "message": "设置和操作说明(Twitter UI Customizer)",
@@ -71,6 +111,10 @@
     },
     "optionContent1_1_1": {
         "message": "(设置和隐私→辅助功能、显示和语言→显示)",
+        "description": "設定画面の文章"
+    },
+    "optionContent1_1_2": {
+        "message": "Twitterの設定を開く！",
         "description": "設定画面の文章"
     },
     "optionHeading1_2": {
@@ -125,6 +169,10 @@
         "message": "Other:",
         "description": "設定画面のSpecial thanksのサービス名"
     },
+    "optionSpecialThanksOtherID": {
+        "message": "ID:",
+        "description": "設定画面のSpecial thanksのサービス名用タイトル"
+    },
     "optionSpecialThanksOtherTwitter": {
         "message": "Twitter",
         "description": "設定画面のSpecial thanksのサービス名"
@@ -145,16 +193,16 @@
         "message": "美国英语翻译员",
         "description": "設定画面のSpecial thanks(Hibi-10000さん)"
     },
-    "optionSpecialThanks_KotoneFami": {
-        "message": "他们参与了增加功能",
+    "optionSpecialThanks_KotoneFami_v2": {
+        "message": "機能追加やソースコードの整理など",
         "description": "設定画面のSpecial thanks(KotoneFamiさん)"
     },
     "optionSpecialThanks_loading_yt": {
         "message": "中文翻译员",
         "description": "設定画面のSpecial thanks(loading_ytさん)"
     },
-    "optionSpecialThanks_nyanrus": {
-        "message": "韩语翻译员",
+    "optionSpecialThanks_nyanrus_v2": {
+        "message": "韓国語の翻訳者や設定画面の改良",
         "description": "設定画面のSpecial thanks(nyanrusさん)"
     },
     "optionSpecialThanks_CutterKnife_": {
@@ -176,5 +224,9 @@
     "optionSpecialThanks_PianoCat1010": {
         "message": "\"赞并转发\" 图标的创造者",
         "description": "設定画面のSpecial thanks(PianoCat1010さん)"
+    },
+    "optionSpecialThanks_GreenDotBlue99": {
+        "message": "タブの固定機能",
+        "description": "設定画面のSpecial thanks(GreenDotBlue99さん)"
     }
 }
