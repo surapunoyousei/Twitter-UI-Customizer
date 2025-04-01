@@ -39,19 +39,63 @@
     },
     "popupButton1": {
         "message": "Twitter UI Customizer 的設定",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
     },
     "popupButton2": {
         "message": "在安全模式下修改設定",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
     },
     "popupButton3": {
         "message": "更新通知設定",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
     },
     "popupButton4": {
         "message": "作者的 Twitter（@kaonasi_biwa）",
-        "description": "ポップアップのボタン"
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton5": {
+        "message": "最新版をGitHubからインストール",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "popupButton7": {
+        "message": "ドメイン変更によって失われてしまったtwitter.comでの設定を救出",
+        "description": "ポップアップのボタンのツールチップ"
+    },
+    "pSettings": {
+        "message": "設定",
+        "description": "ポップアップの設定ボタン"
+    },
+    "pSettingsInSafemode": {
+        "message": "セーフモード",
+        "description": "ポップアップのセーフモードボタン"
+    },
+    "pSettingsUpdateNotification": {
+        "message": "アップデート通知",
+        "description": "ポップアップのアップデート通知設定ボタン"
+    },
+    "pTwitterOfAuthor": {
+        "message": "作者(kaonasi_biwa)",
+        "description": "ポップアップの作者ボタン"
+    },
+    "pInstallFromGH": {
+        "message": "最新版をインストール",
+        "description": "ポップアップのGitHubから最新版をインストールするボタン"
+    },
+    "pPrintTUICPref": {
+        "message": "twitter.comでの設定を救出",
+        "description": "ポップアップのtwitter.comでの設定を救出するボタン"
+    },
+    "pUpdateOnBrowserLaunch": {
+        "message": "ブラウザを起動したとき",
+        "description": "ポップアップのアップデート通知設定"
+    },
+    "pUpdateOnClickIcon": {
+        "message": "アイコンをクリックしたとき",
+        "description": "ポップアップのアップデート通知設定"
+    },
+    "pUpdateOnOpenTwitter": {
+        "message": "Twitterを開いたとき",
+        "description": "ポップアップのアップデート通知設定"
     },
     "optionTitle": {
         "message": "設定與操作說明（Twitter UI Customizer）",
@@ -67,6 +111,10 @@
     },
     "optionContent1_1_1": {
         "message": "（Twitter 設定 → 協助工具、顯示和語言 → 顯示）",
+        "description": "設定画面の文章"
+    },
+    "optionContent1_1_2": {
+        "message": "Twitterの設定を開く！",
         "description": "設定画面の文章"
     },
     "optionHeading1_2": {
@@ -121,8 +169,12 @@
         "message": "Other:",
         "description": "設定画面のSpecial thanksのサービス名"
     },
-    "optionSpecialThanksTwitter": {
-        "message": "(Twitter)",
+    "optionSpecialThanksOtherID": {
+        "message": "ID:",
+        "description": "設定画面のSpecial thanksのサービス名用タイトル"
+    },
+    "optionSpecialThanksOtherTwitter": {
+        "message": "Twitter",
         "description": "設定画面のSpecial thanksのサービス名"
     },
     "optionSpecialThanks_GrapeApple0": {
@@ -141,16 +193,16 @@
         "message": "英文（美國）翻譯者",
         "description": "設定画面のSpecial thanks(Hibi-10000さん)"
     },
-    "optionSpecialThanks_KotoneFami": {
-        "message": "功能追加",
+    "optionSpecialThanks_KotoneFami_v2": {
+        "message": "機能追加やソースコードの整理など",
         "description": "設定画面のSpecial thanks(KotoneFamiさん)"
     },
     "optionSpecialThanks_loading_yt": {
         "message": "中文翻譯者",
         "description": "設定画面のSpecial thanks(loading_ytさん)"
     },
-    "optionSpecialThanks_nyanrus": {
-        "message": "韓文翻譯者",
+    "optionSpecialThanks_nyanrus_v2": {
+        "message": "韓国語の翻訳者や設定画面の改良",
         "description": "設定画面のSpecial thanks(nyanrusさん)"
     },
     "optionSpecialThanks_CutterKnife_": {
@@ -164,5 +216,17 @@
     "optionSpecialThanks_nakasyou": {
         "message": "改善外觀設計",
         "description": "設定画面のSpecial thanks(nakasyouさん)"
+    },
+    "optionSpecialThanks_typeling1578": {
+        "message": "ソースコードの整理",
+        "description": "設定画面のSpecial thanks(typeling1578さん)"
+    },
+    "optionSpecialThanks_PianoCat1010": {
+        "message": "「いいねとリツイート」のアイコンの作成者",
+        "description": "設定画面のSpecial thanks(PianoCat1010さん)"
+    },
+    "optionSpecialThanks_GreenDotBlue99": {
+        "message": "タブの固定機能",
+        "description": "設定画面のSpecial thanks(GreenDotBlue99さん)"
     }
 }
